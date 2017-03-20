@@ -73,11 +73,13 @@ html,body { margin:0; padding:0; }
 /* - - - Percent Column Structure - - - */
 
 /* - - - Extra Percent Grid Structure - - - */
+.grid90 {width:90%; }
 .grid80 {width:80%; }
 .grid70 {width:70%; }
 .grid60 {width:60%; }
 .grid40 {width:40%; }
 .grid30 {width:30%; }
+.grid20 {width:20%; }
 .grid5 { width:20%; }
 .grid7 { width:14.28571%;}
 .grid8 { width:12.5%; }
